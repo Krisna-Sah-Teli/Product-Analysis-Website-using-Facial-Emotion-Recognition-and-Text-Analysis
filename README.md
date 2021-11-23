@@ -1,0 +1,2 @@
+# Product-Analysis-Website-using-Facial-Emotion-Recognition-and-Text-Analysis
+This project is a website development based project where CNN, CV and Text Blob are used to make it practical. With the help of this website, company can get overall idea about their product prior lunching into market. This website allow company to upload the image of product along with its special features and that will be reviewed by number of users and website will collect all those reviews, facial emotions of users, feedback and finally displays graphical analysis to the company.
